@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on building web apps
-- ⚡ I have worked with Java, Php, Laravel, Html, Css, Javascript, Vuejs
+- ⚡ I have worked with Java, php, Laravel, Html, css, Javascript, Vuejs
 - 🌱 I’m currently learning and improving my skills on vuejs
