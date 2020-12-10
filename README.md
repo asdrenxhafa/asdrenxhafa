@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning and improving my skills on vuejs
 
 - 🌱 Take a look at some of my work : 
-    standduty.com -- 
+    <a href="standduty.com">standduty.com</a> -- 
 
 
 
