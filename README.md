@@ -2,9 +2,8 @@
 
 
 - 🔭 I’m currently working on building web apps
-- ⚡ I have worked with Java, php, Laravel, Html, css, Javascript, Vuejs
+- ⚡ I have experience with Java, php, Laravel, Html, css, Javascript, Vuejs
 - 🌱 I’m currently learning and improving my skills on vuejs
-
 - 🌱 Take a look at some of my work : 
     <a href="https://www.standduty.com">standduty.com</a> -- 
 
