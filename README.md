@@ -7,7 +7,7 @@
 - 📌 Take a look at some of my work : 
     <a href="https://www.standduty.com">standduty.com</a>
     </br>
-    --                            --<a href="https://www.duraku-renovation.com">duraku-renovation.com</a>
+    <a href="https://www.duraku-renovation.com">duraku-renovation.com</a>
 
 
 
