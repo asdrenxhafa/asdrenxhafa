@@ -4,14 +4,6 @@
 - 🔭 I’m currently working on building web apps
 - ⚡ I specialize in PHP and have proffesional experience working with Laravel, Html, CSS, Javascript and Vuejs
 - 🌱 I’m currently learning and improving my skills on Vuejs
-- 📌 Take a look at some of my work : 
-    </br>
-    <a href="https://www.standduty.com">standduty.com</a>
-    </br>
-    <a href="https://www.duraku-renovation.com">duraku-renovation.com</a>
-
-
-
 
 
 
