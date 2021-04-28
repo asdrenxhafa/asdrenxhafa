@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on building web apps
-- ⚡ I specialize in PHP and have proffesional experience working with Laravel, Html, CSS, Javascript and Vuejs
+- ⚡ I specialize in Backend Development and have proffesional experience working with Laravel, Html, CSS, Javascript and Vuejs
 - 🌱 I’m currently learning and improving my skills on Vuejs
 
 
