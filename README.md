@@ -1,9 +1,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-- 🔭 I’m currently working on building web apps
+- 🔭 I am a Software Developer with industry experience in building web applications and backend API's.
 - ⚡ I specialize in Backend Development and have professional experience working with Laravel, Html, CSS, Javascript, and Vuejs.
-- 🌱 I’m currently learning and improving my skills on Vuejs
+- 🌱 I am currently learning and improving my skills on Vuejs
 
 
 
