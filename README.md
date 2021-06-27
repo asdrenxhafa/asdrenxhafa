@@ -2,7 +2,7 @@
 
 
 - 🔭 I am a Software Developer with industry experience in building web applications and backend API's.
-- ⚡ I specialize in Backend Development and have professional experience working with Laravel, Html, CSS, Javascript, and Vuejs.
+- ⚡ I specialize in Backend Development and have professional experience working with Laravel, Javascript, and Vuejs.
 - 🌱 I am currently learning and improving my skills on Javascript.
 
 
